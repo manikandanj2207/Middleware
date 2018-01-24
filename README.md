@@ -1,3 +1,3 @@
 # Middlware
 
-Example of the React REdux Middleware concepts
+Example of the React Redux Middleware concepts
